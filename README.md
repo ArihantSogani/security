@@ -1,5 +1,7 @@
 C++ Security System Project
+
 A simple console-based security system with user registration, login, and password management functionality built in C++.
+
 Project Overview
 This C++ application provides a basic security system with the following features:
 
@@ -118,7 +120,11 @@ Acknowledgments
 This security system project demonstrates fundamental C++ concepts including:
 
 File I/O operations
+
 Control structures (loops, conditionals)
+
 String manipulation
+
 User input handling
+
 Basic security concepts
